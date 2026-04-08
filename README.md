@@ -1,4 +1,4 @@
-# Gestão de Colaboradores V2
+# Gestão de Colaboradores
 
 Sistema web acadêmico desenvolvido em **PHP5** com **PostgreSQL** para controle básico de colaboradores.
 
